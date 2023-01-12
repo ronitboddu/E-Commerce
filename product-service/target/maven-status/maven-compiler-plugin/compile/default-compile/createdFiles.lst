@@ -1,0 +1,10 @@
+com\jarvis\productservice\dto\ProductRequest.class
+com\jarvis\productservice\controller\ProductController.class
+com\jarvis\productservice\dto\ProductResponse.class
+com\jarvis\productservice\model\Product.class
+com\jarvis\productservice\service\ProductService.class
+com\jarvis\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\jarvis\productservice\repository\ProductRepository.class
+com\jarvis\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\jarvis\productservice\ProductServiceApplication.class
+com\jarvis\productservice\model\Product$ProductBuilder.class
